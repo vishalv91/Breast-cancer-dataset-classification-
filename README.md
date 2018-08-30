@@ -5,6 +5,6 @@
 - Built models trained on logistic regression SVM, KNN, and random forest. 
 - By comparing the prediction accuracy of these models, it was found that model trained on logistic regression performed the best in   classifying the dataset.
 - Tools used: Jupyter notebook
-- Language: Python
+- Language: Python 3
 - The data was provided by sklearn's built-in dataset.
 
